@@ -10,10 +10,15 @@ To analyze the characteristics of these businesses, the data must be cleaned by 
 The dataset consists of a million records for businesses with the following fields. Below is what the Github Readme file defines the
 fields as:
 
+
 • name: The name of the business
+
 • address: The street address of the business
+
 • city: The city the business is in
+
 • zip: The businesses zip code
+
 • state: The state which the business is in.
 • time_in_business: The years the company has been in business
 • phone: The businesses phone number
