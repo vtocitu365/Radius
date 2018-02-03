@@ -20,9 +20,14 @@ fields as:
 • zip: The businesses zip code
 
 • state: The state which the business is in.
+
 • time_in_business: The years the company has been in business
+
 • phone: The businesses phone number
+
 • category_code: The NAICS code for the business
+
 • headcount: The number of people employed by the business
+
 • revenue: The revenue (in thousands) of the business
 
